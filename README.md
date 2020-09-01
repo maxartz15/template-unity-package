@@ -5,7 +5,9 @@ Description.
 ## Install
 
 [Installing from a Git URL](https://docs.unity3d.com/Manual/upm-ui-giturl.html)
-[Unitypackage](/releases)
+
+[Unitypackage](https://github.com/COMPANYNAME/PACKAGENAME/releases)
+
 
 ## LICENSE
 
