@@ -1,10 +1,11 @@
-# [Maxartz15](https://www.maxartz15.com/) - Template Unity Package
+# [COMPANYNAME]() - PACKAGENAME
 
 Description.
 
 ## Install
 
-Install information.
+[Installing from a Git URL](https://docs.unity3d.com/Manual/upm-ui-giturl.html)
+[Unitypackage](/releases)
 
 ## LICENSE
 
