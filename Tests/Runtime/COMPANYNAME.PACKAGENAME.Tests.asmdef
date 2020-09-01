@@ -1,12 +1,9 @@
 {
-    "name": "OmiyaGames.Template.Editor.Tests",
+    "name": "COMPANYNAME.PACKAGENAME.Tests",
     "references": [
-        "OmiyaGames.Template",
-        "OmiyaGames.Template.Editor"
+        "COMPANYNAME.PACKAGENAME"
     ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
